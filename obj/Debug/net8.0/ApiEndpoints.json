@@ -1,0 +1,148 @@
+[
+  {
+    "ContainingType": "AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.ClientController",
+    "Method": "Index",
+    "RelativePath": "api/Client",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.DashboardController",
+    "Method": "GetLatestReservations",
+    "RelativePath": "api/Dashboard/reservations/latest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.DashboardController",
+    "Method": "GetRoomTypes",
+    "RelativePath": "api/Dashboard/roomtypes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.DashboardController",
+    "Method": "GetStatistics",
+    "RelativePath": "api/Dashboard/statistics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.DataController",
+    "Method": "GetTestData",
+    "RelativePath": "api/Data/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.FactureController",
+    "Method": "Index",
+    "RelativePath": "api/Facture",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.LigneServiceController",
+    "Method": "Index",
+    "RelativePath": "api/LigneService",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.ReservationController",
+    "Method": "Index",
+    "RelativePath": "api/Reservation",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.RoomController",
+    "Method": "GetRooms",
+    "RelativePath": "api/Room",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.SejourController",
+    "Method": "Index",
+    "RelativePath": "api/Sejour",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.ServiceController",
+    "Method": "Index",
+    "RelativePath": "api/Service",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.TypeChambreController",
+    "Method": "Index",
+    "RelativePath": "api/TypeChambre",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "hotel_app.Controllers.UserController",
+    "Method": "Index",
+    "RelativePath": "api/User",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
